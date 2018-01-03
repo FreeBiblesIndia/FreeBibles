@@ -1,2 +1,3 @@
-# Free-Bibles-India
-digital publication and distribution of bibles in Indian languages freely through websites and applications.
+# Free Bibles
+
+Repository of Bibles under open-license which can be digitally published and distributed with out any restrictions.
